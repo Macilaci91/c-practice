@@ -1,0 +1,15 @@
+C:\practice\ifs\ifs\bin\Debug\net6.0\ifs.exe
+C:\practice\ifs\ifs\bin\Debug\net6.0\ifs.deps.json
+C:\practice\ifs\ifs\bin\Debug\net6.0\ifs.runtimeconfig.json
+C:\practice\ifs\ifs\bin\Debug\net6.0\ifs.dll
+C:\practice\ifs\ifs\bin\Debug\net6.0\ifs.pdb
+C:\practice\ifs\ifs\obj\Debug\net6.0\ifs.csproj.AssemblyReference.cache
+C:\practice\ifs\ifs\obj\Debug\net6.0\ifs.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\ifs\ifs\obj\Debug\net6.0\ifs.AssemblyInfoInputs.cache
+C:\practice\ifs\ifs\obj\Debug\net6.0\ifs.AssemblyInfo.cs
+C:\practice\ifs\ifs\obj\Debug\net6.0\ifs.csproj.CoreCompileInputs.cache
+C:\practice\ifs\ifs\obj\Debug\net6.0\ifs.dll
+C:\practice\ifs\ifs\obj\Debug\net6.0\refint\ifs.dll
+C:\practice\ifs\ifs\obj\Debug\net6.0\ifs.pdb
+C:\practice\ifs\ifs\obj\Debug\net6.0\ifs.genruntimeconfig.cache
+C:\practice\ifs\ifs\obj\Debug\net6.0\ref\ifs.dll
