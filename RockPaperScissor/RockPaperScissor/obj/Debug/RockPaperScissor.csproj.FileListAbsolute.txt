@@ -1,0 +1,8 @@
+C:\practice\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe.config
+C:\practice\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe
+C:\practice\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.pdb
+C:\practice\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.AssemblyReference.cache
+C:\practice\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.SuggestedBindingRedirects.cache
+C:\practice\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\practice\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.exe
+C:\practice\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.pdb

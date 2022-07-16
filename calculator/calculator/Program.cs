@@ -19,7 +19,7 @@ namespace calculator
             Console.WriteLine("Please type your second number");
             string second = Console.ReadLine();
 
-            Console.WriteLine("What would you want to do? (+,-,*,/");
+            Console.WriteLine("What would you want to do? (+,-,*,/)");
             string op = Console.ReadLine();
 
             switch (op) {
