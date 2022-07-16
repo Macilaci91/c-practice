@@ -1,0 +1,8 @@
+C:\practice\basics\basics\obj\Debug\basics.csproj.AssemblyReference.cache
+C:\practice\basics\basics\obj\Debug\basics.csproj.SuggestedBindingRedirects.cache
+C:\practice\basics\basics\obj\Debug\basics.csproj.CoreCompileInputs.cache
+C:\practice\basics\basics\bin\Debug\basics.exe.config
+C:\practice\basics\basics\bin\Debug\basics.exe
+C:\practice\basics\basics\bin\Debug\basics.pdb
+C:\practice\basics\basics\obj\Debug\basics.exe
+C:\practice\basics\basics\obj\Debug\basics.pdb
