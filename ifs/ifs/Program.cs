@@ -20,7 +20,7 @@ namespace helloWorld
                 Console.WriteLine("x értéke 12");
             } else
             {
-                Console.WriteLine("x értéke nem 10 vagy 10");
+                Console.WriteLine("x értéke nem 10 vagy 12");
             }
 
             Console.WriteLine("Switch:");
